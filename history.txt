@@ -1,0 +1,1423 @@
+Game ID:	7539dfd0-3639-4cba-907b-c9a7f74bb495
+Start Time:	2023-08-04 21:42:05
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+767
+20
+-
+-
+1	1
+You
+KT
+20	Push	false
+Game ID:	e44de77e-07af-453b-a7f6-e6620a74caa3
+Start Time:	2023-08-04 21:41:52
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+9T
+19
+-
+-
+1	0
+You
+3939
+24	Lost	false
+Game ID:	e8e6a429-828b-457e-a3f1-2e439dbffc6e
+Start Time:	2023-08-04 21:41:33
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+885
+21
+-
+-
+1	0
+You
+QT
+20	Lost	false
+Game ID:	48864056-78f4-4f57-b26d-79a76ca1fa60
+Start Time:	2023-08-04 21:41:04
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+343A
+21
+-
+-
+1	0
+You
+747
+18	Lost	true
+You
+755
+17	Lost	false
+Game ID:	86565e24-4dd7-4cf4-8015-2b3f770bd980
+Start Time:	2023-08-04 21:40:46
+Insured:	true
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+A3
+14
+-
+-
+1	0
+You
+27259
+25	Lost	false
+Game ID:	8a8cfb53-a1b0-4e66-beed-74bd0c90065a
+Start Time:	2023-08-04 21:40:33
+Insured:	true
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+A8
+19
+-
+-
+1	0
+You
+7T
+17	Lost	false
+Game ID:	37eecb2f-b02f-40a5-86d0-fe0428ec76f0
+Start Time:	2023-08-04 21:40:18
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+9T
+19
+-
+-
+1	1
+You
+54J
+19	Push	false
+Game ID:	0e3b0b61-62f7-4ba0-a6aa-7a48e5749552
+Start Time:	2023-08-04 21:40:05
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+533T
+21
+-
+-
+1	0
+You
+283
+13	Lost	true
+Game ID:	49ad8953-286a-456c-9e65-1b9cf75eea1e
+Start Time:	2023-08-04 21:39:54
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+AJ
+21
+-
+-
+1	1
+You
+AQ
+21	Push	false
+Game ID:	18a30a3d-bf5e-49d6-ad05-6c5535698e8c
+Start Time:	2023-08-04 21:39:46
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+64
+10
+-
+-
+1	2.5
+You
+AT
+21	Win	false
+Game ID:	3c22ebae-1da8-495d-abb9-6a634f2ccdc1
+Start Time:	2023-08-04 21:39:35
+Insured:	true
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+AJ
+21
+-
+-
+1	1.5
+You
+K9
+19	Lost	false
+Game ID:	fc4f2c9d-b739-4cb6-8710-239e9cf199ab
+Start Time:	2023-08-04 21:39:09
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+3JJ
+23
+-
+-
+1	2
+You
+2A3Q
+16	Win	false
+Game ID:	504216d7-dfc7-4f72-8d19-96dedfc84473
+Start Time:	2023-08-04 21:38:56
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+222462
+18
+-
+-
+1	2
+You
+QK
+20	Win	false
+Game ID:	4aefa9a8-76dc-494a-a7c5-f83e7e8b9ea5
+Start Time:	2023-08-04 21:38:35
+Insured:	true
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+AK
+21
+-
+-
+1	1.5
+You
+AA
+12	Lost	false
+You
+A7
+18	Lost	false
+Game ID:	8aa19bd4-132c-483e-933c-f54b1447e77f
+Start Time:	2023-08-04 21:38:16
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+3Q6
+19
+-
+-
+1	1
+You
+9J
+19	Push	false
+Game ID:	88eeafa7-cefd-4334-a16a-2058b837d52b
+Start Time:	2023-08-04 21:38:04
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+5744
+20
+-
+-
+1	0
+You
+6Q
+16	Lost	false
+Game ID:	24e31ef3-78ab-4a68-8294-2e2bc8eb17bc
+Start Time:	2023-08-04 21:37:53
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+8T
+18
+-
+-
+1	4
+You
+568
+19	Win	true
+Game ID:	2ad841e3-8ea1-414e-bf38-76af640c4e8e
+Start Time:	2023-08-04 21:37:42
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+K68
+24
+-
+-
+1	2
+You
+QT
+20	Win	false
+Game ID:	d364f39c-c7a0-43c4-a791-81ea719e8c57
+Start Time:	2023-08-04 21:37:28
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+QK
+20
+-
+-
+1	0
+You
+2J32
+17	Lost	false
+Game ID:	fe2a50bf-f016-43a1-9d14-a641e7812010
+Start Time:	2023-08-04 21:37:14
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+T3AJ
+24
+-
+-
+1	2
+You
+2Q8
+20	Win	false
+Game ID:	45670330-b41e-4853-ab2f-9d8f9eb7be72
+Start Time:	2023-08-04 21:37:03
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+J9
+19
+-
+-
+1	4
+You
+29K
+21	Win	true
+Game ID:	93f948e8-5d3c-4660-9e5c-baa229368f92
+Start Time:	2023-08-04 21:36:52
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+5Q9
+24
+-
+-
+1	4
+You
+653
+14	Win	true
+Game ID:	c0e8971f-bc2e-4adb-a60a-c8491d2a63bd
+Start Time:	2023-08-04 21:36:38
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+Q9
+19
+-
+-
+1	0
+You
+368
+17	Lost	false
+Game ID:	b6fbb290-7fc4-41ea-9429-1f9f91667cdb
+Start Time:	2023-08-04 21:36:27
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+7T
+17
+-
+-
+1	0
+You
+K6
+16	Lost	false
+Game ID:	56662122-6855-4b43-8d23-fe7da9084755
+Start Time:	2023-08-04 21:35:43
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+396
+18
+-
+-
+1	2
+You
+759
+21	Win	false
+Game ID:	1a791520-2715-43b2-9e8f-f79b16292ec7
+Start Time:	2023-08-04 21:35:32
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+TT
+20
+-
+-
+1	0
+You
+4JQ
+24	Lost	false
+Game ID:	d71756aa-893f-4f68-8daa-2936789d934f
+Start Time:	2023-08-04 21:35:14
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+8K
+18
+-
+-
+1	0
+You
+9526
+22	Lost	false
+Game ID:	efa667ca-ad42-4bf8-af70-d9546af2bcf1
+Start Time:	2023-08-04 21:35:02
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+3A4
+18
+-
+-
+1	0
+You
+5T
+15	Lost	false
+Game ID:	b7b3b374-a8ba-4d44-92dd-56bc39a09b35
+Start Time:	2023-08-04 21:34:32
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+663A2
+18
+-
+-
+1	0
+You
+724
+13	Lost	true
+You
+76
+13	Lost	false
+Game ID:	bf22ed8b-2073-40c9-80ba-26aa3695ebe9
+Start Time:	2023-08-04 21:34:18
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+564Q
+25
+-
+-
+1	4
+You
+A5T
+16	Win	true
+Game ID:	9fd2cc20-fdf1-48fd-96e5-70647a5c8521
+Start Time:	2023-08-04 21:34:01
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+Q7
+17
+-
+-
+1	0
+You
+5KK
+25	Lost	false
+Game ID:	1f024783-8855-45ae-9320-d11ab1e7862e
+Start Time:	2023-08-04 21:33:41
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+749
+20
+-
+-
+1	0
+You
+J2A6
+19	Lost	false
+Game ID:	58d7d28a-540c-46f1-9ff9-6fe989c825d3
+Start Time:	2023-08-04 21:33:21
+Insured:	true
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+AK
+21
+-
+-
+1	1.5
+You
+T42
+16	Lost	false
+Game ID:	77890c70-f084-43d8-8869-b6b98d6e02b6
+Start Time:	2023-08-04 21:32:59
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+264T
+22
+-
+-
+1	2
+You
+4A7A
+13	Win	false
+Game ID:	ffbac751-f030-4be3-b6c9-35cd00321ff1
+Start Time:	2023-08-04 21:32:46
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+7433
+17
+-
+-
+1	0
+You
+78
+15	Lost	false
+Game ID:	d17bd9a0-6289-4ee3-a3b9-9e6972aedd99
+Start Time:	2023-08-04 21:32:32
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+9J
+19
+-
+-
+1	2
+You
+597
+21	Win	false
+Game ID:	4e43c9d7-36f3-4e46-8789-de69fc0e7e7c
+Start Time:	2023-08-04 21:32:19
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+27K
+19
+-
+-
+1	0
+You
+6T
+16	Lost	false
+Game ID:	4d6d729c-84de-45cc-85b8-b6f761c1b535
+Start Time:	2023-08-04 21:32:01
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+99
+18
+-
+-
+1	2
+You
+596
+20	Win	false
+Game ID:	8207cff3-75a2-4731-9c00-f4a12f0a3295
+Start Time:	2023-08-04 21:31:50
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+KQ
+20
+-
+-
+1	0
+You
+8J
+18	Lost	false
+Game ID:	03dcceca-f11f-4025-93c2-ce0d0b320e27
+Start Time:	2023-08-04 21:31:31
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+3KQ
+23
+-
+-
+1	4
+You
+A65
+12	Win	true
+Game ID:	84de6bcf-5e57-4df1-b125-7cd7bf18703d
+Start Time:	2023-08-04 21:31:13
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+48AJ
+23
+-
+-
+1	2
+You
+535
+13	Win	false
+Game ID:	ec47d899-a5c7-4d24-b8ef-6de74343ce09
+Start Time:	2023-08-04 21:31:01
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+KK
+20
+-
+-
+1	0
+You
+327J
+22	Lost	false
+Game ID:	a90c9b12-4170-4d69-8a12-ceb43ef87329
+Start Time:	2023-08-04 21:30:45
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+74K
+21
+-
+-
+1	0
+You
+463
+13	Lost	true
+Game ID:	280b31de-e213-45ee-9357-bd0c9f518cba
+Start Time:	2023-08-04 21:30:34
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+73J
+20
+-
+-
+1	0
+You
+9Q
+19	Lost	false
+Game ID:	6493544a-b2f7-4a1e-aab4-1e0a5669f9ae
+Start Time:	2023-08-04 21:30:19
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+5J4
+19
+-
+-
+1	0
+You
+79
+16	Lost	false
+Game ID:	132246b9-0337-4d68-9e6a-805161d1c83e
+Start Time:	2023-08-04 21:30:07
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+3Q5
+18
+-
+-
+1	0
+You
+744
+15	Lost	true
+Game ID:	5836cf35-e392-4f0e-8761-6b4b5875822d
+Start Time:	2023-08-04 21:29:52
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+54A
+20
+-
+-
+1	2
+You
+28Q
+20	Push	true
+Game ID:	e62fe0df-e49b-4e6b-bd68-42660cb5faf5
+Start Time:	2023-08-04 21:29:36
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+AQ
+21
+-
+-
+1	0
+You
+585
+18	Lost	false
+Game ID:	42077c5c-44bc-40bb-b0b4-6d9b8d7e5094
+Start Time:	2023-08-04 21:29:22
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+K4
+14
+-
+-
+1	0
+You
+K5T
+25	Lost	false
+Game ID:	900d6a19-37d4-4bf3-b03f-69e38a5b5ee9
+Start Time:	2023-08-04 21:29:07
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+938
+20
+-
+-
+1	2
+You
+6Q5
+21	Win	false
+Game ID:	b785384e-2f2d-4c03-bbfa-da23574ecdc0
+Start Time:	2023-08-04 21:28:52
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+77
+14
+-
+-
+1	0
+You
+32T9
+24	Lost	false
+Game ID:	3582dd30-6d25-4cb9-8792-67ca08a350d3
+Start Time:	2023-08-04 21:28:40
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+62T
+18
+-
+-
+1	0
+You
+J4
+14	Lost	false
+Game ID:	7c9a5a97-02c9-4bca-94ae-4cc1a7806430
+Start Time:	2023-08-04 21:28:26
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+63K
+19
+-
+-
+1	0
+You
+438
+15	Lost	false
+Game ID:	09953086-63f3-484c-8cd0-15b8f5f84eb6
+Start Time:	2023-08-04 21:28:12
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+5238
+18
+-
+-
+1	0
+You
+6J
+16	Lost	false
+Game ID:	d0ff4962-90bb-4146-9ff1-d9e4b057723c
+Start Time:	2023-08-04 21:28:01
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+267J
+25
+-
+-
+1	2
+You
+K7
+17	Win	false
+Game ID:	c1901d31-bb83-4935-9383-f76c91856d06
+Start Time:	2023-08-04 21:27:49
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+79Q
+26
+-
+-
+1	2
+You
+7K
+17	Win	false
+Game ID:	6c2bddd1-23b4-4b81-9b8d-2e3331048917
+Start Time:	2023-08-04 21:27:38
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+T58
+23
+-
+-
+1	2
+You
+K8
+18	Win	false
+Game ID:	6941e22b-7013-4435-b8c0-ea7daece041d
+Start Time:	2023-08-04 21:27:24
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+648
+18
+-
+-
+1	0
+You
+6K
+16	Lost	false
+Game ID:	71cd201d-b0ad-4809-984d-93941df28a41
+Start Time:	2023-08-04 21:27:13
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+65Q
+21
+-
+-
+1	0
+You
+568
+19	Lost	true
+Game ID:	01f26ae6-ed9d-4c3b-9a0e-debe8bbac1f8
+Start Time:	2023-08-04 21:27:00
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+6JT
+26
+-
+-
+1	2
+You
+75
+12	Win	false
+Game ID:	47512676-4dc7-4fbf-874b-1867e2315fcd
+Start Time:	2023-08-04 21:26:47
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+QA
+21
+-
+-
+1	0
+You
+927
+18	Lost	true
+Game ID:	0b04d7c5-f604-45b5-a66c-29ca2e30437a
+Start Time:	2023-08-04 21:26:08
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+TA
+21
+-
+-
+1	0
+You
+T44
+18	Lost	false
+Game ID:	9eee1da6-c2d6-4d40-8aa5-861a556beb33
+Start Time:	2023-08-04 21:25:53
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+446Q
+24
+-
+-
+1	2
+You
+76
+13	Win	false
+Game ID:	37dc2fd5-be61-4df5-baf3-f2b1931b84a2
+Start Time:	2023-08-04 21:25:43
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+3Q7
+20
+-
+-
+1	0
+You
+744
+15	Lost	true
+Game ID:	d0e64d6f-bbce-45b9-9300-851ac48c10ac
+Start Time:	2023-08-04 21:25:28
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+3K7
+20
+-
+-
+1	0
+You
+2K7
+19	Lost	false
+Game ID:	950a87f7-6b60-4907-876f-bdf5d64c780d
+Start Time:	2023-08-04 21:25:12
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+QA
+21
+-
+-
+1	0
+You
+787
+22	Lost	false
+Game ID:	b719c811-58cd-4e37-9d61-d7dcdb562c84
+Start Time:	2023-08-04 21:24:58
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+435225
+21
+-
+-
+1	0
+You
+T5
+15	Lost	false
+Game ID:	c70911ee-9d76-4d02-9c3e-5b16c566a25c
+Start Time:	2023-08-04 21:24:47
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+K2
+12
+-
+-
+1	0
+You
+K2J
+22	Lost	false
+Game ID:	7db08a35-f005-41c8-a8fc-4661e450be39
+Start Time:	2023-08-04 21:24:38
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+8K
+18
+-
+-
+1	2.5
+You
+AK
+21	Win	false
+Game ID:	24cc9091-30ca-4c30-bb2a-14036c624303
+Start Time:	2023-08-04 21:24:16
+Insured:	true
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+A7
+18
+-
+-
+1	0
+You
+3QAAQ
+25	Lost	false
+Game ID:	dfbf60ad-8a5b-4bbd-8c6b-13d7d9dae116
+Start Time:	2023-08-04 21:24:06
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+7K
+17
+-
+-
+1	0
+You
+925
+16	Lost	true
+Game ID:	a526888f-9b46-4379-bdba-8c2986a86285
+Start Time:	2023-08-04 21:23:49
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+5J7
+22
+-
+-
+1	4
+You
+6A5
+12	Win	true
+Game ID:	e50d44ea-8dfb-4d75-92b2-dd58cfdd178d
+Start Time:	2023-08-04 21:23:35
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+3K2A6
+22
+-
+-
+1	2
+You
+A8
+19	Win	false
+Game ID:	d110be7a-86ef-44d2-86cc-7d0d9d94e731
+Start Time:	2023-08-04 21:23:17
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+K7
+17
+-
+-
+1	2
+You
+A226
+21	Win	false
+Game ID:	e21a26e6-1e4a-4c63-89d1-9d25106071d4
+Start Time:	2023-08-04 21:23:05
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+3KK
+23
+-
+-
+1	2
+You
+K8
+18	Win	false
+Game ID:	9979ab36-ec25-4780-bb9c-fc06febd51fb
+Start Time:	2023-08-04 21:22:51
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+5378
+23
+-
+-
+1	2
+You
+3J
+13	Win	false
+Game ID:	97364c0e-9091-489e-a981-de007a96c3b4
+Start Time:	2023-08-04 21:22:25
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+929
+20
+-
+-
+1	0
+You
+33AQ
+17	Lost	false
+Game ID:	d95bce45-8856-4d3c-9a1a-c30df09d3291
+Start Time:	2023-08-04 21:22:14
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+588
+21
+-
+-
+1	0
+You
+QK
+20	Lost	false
+Game ID:	0bcd0306-d65c-4ec2-891f-c82b5ac6c5dd
+Start Time:	2023-08-04 21:22:00
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+7J
+17
+-
+-
+1	0
+You
+6JT
+26	Lost	false
+Game ID:	2d8845ba-71a3-4874-a8b1-3959415b11ff
+Start Time:	2023-08-04 21:21:46
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+T7
+17
+-
+-
+1	0
+You
+484K
+26	Lost	false
+Game ID:	5bd4c9b7-d30e-477c-8237-4d6ffd277546
+Start Time:	2023-08-04 21:21:33
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+437K
+24
+-
+-
+1	2
+You
+6T
+16	Win	false
+Game ID:	5e34b135-ea52-487a-8882-0281bb5ba505
+Start Time:	2023-08-04 21:21:20
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+9Q
+19
+-
+-
+1	2
+You
+QQ
+20	Win	false
+Game ID:	250a5130-e09d-4f29-900e-0fdb8ffc4fd3
+Start Time:	2023-08-04 21:21:06
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+KA
+21
+-
+-
+1	0
+You
+933A
+16	Lost	false
+Game ID:	9c00493a-45f5-48ca-b144-5b0729f27790
+Start Time:	2023-08-04 21:20:53
+Insured:	true
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+A7
+18
+-
+-
+1	2
+You
+9Q
+19	Win	false
+Game ID:	d44e20cc-894d-44ee-825c-4e8b2d73bcad
+Start Time:	2023-08-04 21:20:41
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+7K
+17
+-
+-
+1	0
+You
+96T
+25	Lost	false
+Game ID:	268f105d-513f-48cb-95c8-38b4f0e1a11c
+Start Time:	2023-08-04 21:20:28
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+598
+22
+-
+-
+1	2
+You
+T5
+15	Win	false
+Game ID:	8c50eda8-2715-4e55-8e23-193a348cd533
+Start Time:	2023-08-04 21:20:13
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+76A5
+19
+-
+-
+1	1
+You
+937
+19	Push	false
+Game ID:	12c2fb9a-49dd-4edf-bc0d-b0905da90046
+Start Time:	2023-08-04 21:20:02
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+KT
+20
+-
+-
+1	0
+You
+T5Q
+25	Lost	false
+Game ID:	3df43356-061d-432b-973c-68f53ca25fa0
+Start Time:	2023-08-04 21:19:33
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+567
+18
+-
+-
+1	0
+You
+39
+12	Lost	false
+Game ID:	99cab079-b861-49e0-b06f-9c359f0387f9
+Start Time:	2023-08-04 21:19:21
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+4T4
+18
+-
+-
+1	0
+You
+J4
+14	Lost	false
+Game ID:	287266e2-323b-46f1-8e9b-0fb90057a2d7
+Start Time:	2023-08-04 21:19:06
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+K2J
+22
+-
+-
+1	2
+You
+J44
+18	Win	false
+Game ID:	737e511f-cd03-4fc2-84a0-6f12405da8f9
+Start Time:	2023-08-04 21:18:54
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+25T
+17
+-
+-
+1	4
+You
+929
+20	Win	true
+Game ID:	898c9940-730e-44c7-b854-3123206fef3a
+Start Time:	2023-08-04 21:18:43
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+7265
+20
+-
+-
+1	0
+You
+8J
+18	Lost	false
+Game ID:	5dfe92d7-38be-4fc3-9a0e-c73ae893580f
+Start Time:	2023-08-04 21:18:33
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+K8
+18
+-
+-
+1	2
+You
+9Q
+19	Win	false
+Game ID:	f5b52ddf-461a-4c80-ad97-81b3f094f390
+Start Time:	2023-08-04 21:18:22
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+3JA7
+21
+-
+-
+1	0
+You
+9J
+19	Lost	false
+Game ID:	5d6f4eaf-68e2-48e7-bb2d-b5c04a9df3b1
+Start Time:	2023-08-04 21:18:13
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+44
+8
+-
+-
+1	2.5
+You
+AJ
+21	Win	false
+Game ID:	061ba88c-fae7-469d-8981-756be408cbe2
+Start Time:	2023-08-04 21:17:58
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+Q8
+18
+-
+-
+1	0
+You
+42KK
+26	Lost	false
+Game ID:	65c12118-d328-4c56-85d3-0ffe88a71829
+Start Time:	2023-08-04 21:17:45
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+2KT
+22
+-
+-
+1	2
+You
+K3
+13	Win	false
+Game ID:	592c2050-96f3-419a-9fea-f37a0d8c5f03
+Start Time:	2023-08-04 21:17:30
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+T9
+19
+-
+-
+1	1
+You
+694
+19	Push	false
+Game ID:	237f0346-6c63-4be7-8010-cf2d5dc836e9
+Start Time:	2023-08-04 21:17:17
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+87J
+25
+-
+-
+1	2
+You
+2K9
+21	Win	false
+Game ID:	a83dacc2-0609-4d19-bc8b-7fcabb3afaeb
+Start Time:	2023-08-04 21:16:52
+Insured:	false
+Variant:	CLASSIC
+Player	Hand	Value	Result	Double	Initial Play	Winnings
+Dealer
+85
+13
+-
+-
+1	0
+You
+5AQT
+26	Lost	false
